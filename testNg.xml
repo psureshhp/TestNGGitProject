@@ -3,6 +3,8 @@
 	<test name="test1">
 		<classes>
 		   <class name="com.nit.Test1"></class>
+		   <class name="com.nit.Test2"></class>
+		   <class name="com.nit.Test3"></class>
 		</classes>
 	</test>
 </suite>
