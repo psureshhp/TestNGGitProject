@@ -6,7 +6,8 @@ public class Test1 {
 	
 	@Test
 	public void add() {
-		System.out.println("test1 add method");
+		System.out.println("test1 add method1");
+		System.out.println("test1 add method2");
 	}
 
 }
